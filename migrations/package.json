@@ -1,0 +1,11 @@
+{
+  "name": "tokenswap-contract-migrate",
+  "version": "0.0.1",
+  "description": "Swap contract deploy",
+  "license": "MIT",
+  "dependencies": {
+    "eth-lib": "^0.1.29",
+    "rlp": "^2.2.6",
+    "@alayanetwork/web3-utils": "^0.13.3"
+  }
+}

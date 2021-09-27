@@ -1,0 +1,11 @@
+{
+    "feeToSetter" : "atp1jtfqqqr6436ppj6ccnrh8xjg7qals3ctnnmurp",
+    "rewardsDistribution" : "atp1jtfqqqr6436ppj6ccnrh8xjg7qals3ctnnmurp",
+    "uniMiner": "atp1jtfqqqr6436ppj6ccnrh8xjg7qals3ctnnmurp",
+    "pairs": [
+        {
+            "name": "ATP-aUSDT",
+            "address": "atp1nr7cffazcqs2u7sls3val7t049mn6sw6gcw53x"
+        }
+    ]
+}
