@@ -37,11 +37,11 @@ module.exports = {
 
 	networks: {
         development: {
-            host: "10.1.1.50",     // 区块链所在服务器主机
+            host: "47.241.91.2",     // 区块链所在服务器主机
             port: 6789,            // 链端口号
             network_id: "*",       // Any network (default: none)
-            from: "atp1jtfqqqr6436ppj6ccnrh8xjg7qals3ctnnmurp", //部署合约账号的钱包地址
-            gas: 4612388,
+            from: "atp12vt5sjef39u5wd4uf4hkj8fmayle55qa3p4n46", //部署合约账号的钱包地址
+            gas: 9424776,
             gasPrice: 500000000004,
          },
     // Useful for testing. The `development` name is special - truffle uses it by default
