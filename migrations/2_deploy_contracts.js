@@ -3,7 +3,7 @@ const uniswapV2Factory = artifacts.require("UniswapV2Factory");
 const WATP = artifacts.require("WATP");
 const uniswapV2Router02 = artifacts.require("UniswapV2Router02");
 const uniswapV2ERC20 = artifacts.require("UniswapV2ERC20");
-const feeToSetter='atp12vt5sjef39u5wd4uf4hkj8fmayle55qa3p4n46'; //有权更改 feeTo 地址的账户,为当前合约部署者
+const feeToSetter='lat12vt5sjef39u5wd4uf4hkj8fmayle55qaghrt24'; //有权更改 feeTo 地址的账户,为当前合约部署者
 
 module.exports = async function(deployer) {
    await deployer.deploy(uniswapV2Factory,feeToSetter);
