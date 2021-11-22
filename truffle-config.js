@@ -40,7 +40,7 @@ module.exports = {
             host: "47.241.91.2",     // 区块链所在服务器主机
             port: 6789,            // 链端口号
             network_id: "*",       // Any network (default: none)
-            from: "atp12vt5sjef39u5wd4uf4hkj8fmayle55qa3p4n46", //部署合约账号的钱包地址
+            from: "atp1ay4d53qawvp64myjzgdstppxp4tn3fudwnn89j", //部署合约账号的钱包地址
             gas: 9424776,
             gasPrice: 500000000004,
          },

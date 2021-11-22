@@ -1,7 +1,7 @@
 {
-    "feeToSetter" : "atp12vt5sjef39u5wd4uf4hkj8fmayle55qa3p4n46",
-    "rewardsDistribution" : "atp12vt5sjef39u5wd4uf4hkj8fmayle55qa3p4n46",
-    "uniMiner": "atp12vt5sjef39u5wd4uf4hkj8fmayle55qa3p4n46",
+    "feeToSetter" : "atp1ay4d53qawvp64myjzgdstppxp4tn3fudwnn89j",
+    "rewardsDistribution" : "atp1ay4d53qawvp64myjzgdstppxp4tn3fudwnn89j",
+    "uniMiner": "atp1ay4d53qawvp64myjzgdstppxp4tn3fudwnn89j",
     "pairs": [
         {
             "name": "ATP-aUSDT",
